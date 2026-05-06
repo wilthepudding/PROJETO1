@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Projeto1 MIDI Tapper</string>
+    <string name="accessibility_description">Serviço usado para tocar na tela somente quando você iniciar uma música no app.</string>
+</resources>
